@@ -1,5 +1,5 @@
 """
-Prints integers based on User input. Multiples of three print "Fizz",
+Output is based on User input. Multiples of three print "Fizz",
 multiples of five print "Buzz". Multiples of both three and five print "FizzBuzz"
 """
 
