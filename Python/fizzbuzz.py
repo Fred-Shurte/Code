@@ -11,9 +11,8 @@ class Fizzbuzz:
         self.__count_buzz = 0
         self.__count_fizzbuzz = 0
         self.__count_integer = 0
-        self.user_input()
 
-    def user_input(self):
+    def prompt(self):
         while self.__loop:
             try:
                 self.min = int(input("Enter the starting integer: "))
