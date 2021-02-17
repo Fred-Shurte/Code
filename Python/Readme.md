@@ -1,2 +1,2 @@
-<h1>Readme</h1>
-<p>My coding examples in python.</p>
+<h1>Python</h1>
+<p>General coding examples in python.</p>
